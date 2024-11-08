@@ -1,5 +1,6 @@
 #![allow(clippy::new_without_default)]
 
+pub mod apecs;
 pub mod bevy;
 pub mod hecs;
 pub mod legion;
